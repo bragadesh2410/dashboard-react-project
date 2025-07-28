@@ -302,6 +302,6 @@ export const VOLUME_SERVICE_DATA = [
   {
     name: "G",
     profit: 1000,
-    loss: 130,
+    loss: 160,
   },
 ];
